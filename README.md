@@ -92,7 +92,7 @@ python test.py \
 
 ## Citation
 If you find this work useful in your research, please cite the paper:
-```
+```bibtex
 @inproceedings{kim2025revival,
   title={Revival with Voice: Multi-modal Controllable Text-to-Speech Synthesis},
   author={Kim, Minsu and Ma, Pingchuan and Chen, Honglie and Petridis, Stavros and Pantic, Maja},
